@@ -1,0 +1,9 @@
+2023-07-10 11:12:00.418  INFO 18732 --- [Test worker] c.f.s.c.BuyRequestControllerTest         : Starting BuyRequestControllerTest using Java 18.0.2 on LIN33002355 with PID 18732 (started by skum1157 in C:\Users\SKUM1157\Desktop\supllier)
+2023-07-10 11:12:00.455  INFO 18732 --- [Test worker] c.f.s.c.BuyRequestControllerTest         : No active profile set, falling back to default profiles: default
+2023-07-10 11:12:05.590  INFO 18732 --- [Test worker] c.f.s.c.BuyRequestControllerTest         : Started BuyRequestControllerTest in 6.864 seconds (JVM running for 9.442)
+2023-07-10 11:12:06.205  INFO 18732 --- [Test worker] c.f.s.c.CentralizedExceptionHandlerTest  : Starting CentralizedExceptionHandlerTest using Java 18.0.2 on LIN33002355 with PID 18732 (started by skum1157 in C:\Users\SKUM1157\Desktop\supllier)
+2023-07-10 11:12:06.206  INFO 18732 --- [Test worker] c.f.s.c.CentralizedExceptionHandlerTest  : No active profile set, falling back to default profiles: default
+2023-07-10 11:12:07.223  INFO 18732 --- [Test worker] c.f.s.c.CentralizedExceptionHandlerTest  : Started CentralizedExceptionHandlerTest in 1.221 seconds (JVM running for 11.074)
+2023-07-10 11:12:07.443  INFO 18732 --- [Test worker] c.f.s.c.ProductsControllerTest           : Starting ProductsControllerTest using Java 18.0.2 on LIN33002355 with PID 18732 (started by skum1157 in C:\Users\SKUM1157\Desktop\supllier)
+2023-07-10 11:12:07.444  INFO 18732 --- [Test worker] c.f.s.c.ProductsControllerTest           : No active profile set, falling back to default profiles: default
+2023-07-10 11:12:08.368  INFO 18732 --- [Test worker] c.f.s.c.ProductsControllerTest           : Started ProductsControllerTest in 1.105 seconds (JVM running for 12.219)
